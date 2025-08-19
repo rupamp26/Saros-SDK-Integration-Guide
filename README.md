@@ -3,7 +3,7 @@
 Unlock DeFi with Saros—AMM, DLMM, Staking, and Farming on Solana
 
 ***
-
+https://github.com/rupamp26/Saros-SDK-Integration-Guide/blob/main/generated-image.png
 ## Table of Contents  
 1. Quick Start Guide  
 2. Environment Setup  
