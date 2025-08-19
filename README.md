@@ -1,6 +1,3 @@
-# Saros-SDK-Integration-Guide
-
-***
 
 # Saros SDK Integration Guide  
 Unlock DeFi with Saros—AMM, DLMM, Staking, and Farming on Solana
