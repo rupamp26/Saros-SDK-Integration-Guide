@@ -230,22 +230,3 @@ priceStream.on('update', (price) => updateUI(price));
 ```
 
 ***
-
-## 9. Visual Aids
-
-Add your own screenshots/GIFs showing wallet setup, swap execution, pool creation, etc.—this will make navigation easier for other developers.
-
-***
-
-**Submission Checklist**
-- [x] Quick Start Guide
-- [x] Integration Tutorials (2+)
-- [x] Working Code Examples (3+)
-- [x] API Reference
-- [x] Troubleshooting & FAQ
-- [x] Advanced Use Cases
-- [x] Visual Aids (add your own)
-
-***
-
-Your documentation is now copy-paste ready and structurized for Notion. Paste it in, add visual aids, and submit!
